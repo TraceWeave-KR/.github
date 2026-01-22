@@ -1,34 +1,33 @@
-﻿## Traceability Report Format (TRF)
+## Automated Safety for Autonomous Systems
 
-TRF is a neutral, deterministic, validator-verifiable evidence pack covering safety (ISO 26262), cybersecurity (ISO 21434/UNECE R155), OTA/software updates (ISO 24089/UNECE R156), and linked artifacts including requirements, tests, SBOM/VEX entries, and OTA deltas.
-
-## Focus
-- Steward the open TRF specification and supporting toolchain.
-- Sequence: Publish → Demo → OEM Pilot → Technical Service acceptance → Open consortium.
-- Deliverables: TRF specification, validator CLI, portable viewer, demo/negative packs, OEM pilot kits, governance and licensing guidance.
-
-## Roadmap Snapshot
-| Phase | Milestone Highlights |
-| --- | --- |
-| Foundation | Publish the open spec, ship validator CLI, release reproducible demo and negative packs, document governance. |
-| Auditor Experience | Deliver portable viewer, stopwatch demo kit, and scripted auditor walkthroughs. |
-| Validation & Outreach | Run technical-service demos, stand up OEM pilot programs, iterate on sampling and delta views. |
-| Public Adoption | Share case notes, stabilize the spec for pilots, launch OpenTRF consortium assets. |
-
-## How We Engage
-- **Technical Services:** time-boxed stopwatch demos, negative-control walk-throughs, shadow-run support.
-- **OEMs & Suppliers:** scoped pilots, deterministic pack exporters, acceptance phrasing aligned with independent sampling.
+Real-time safety monitoring, compliance automation, and AI-powered analysis from edge to cloud.
 
 ---
 
-## Call for Participation
-- TRF is an open, community-driven standard. We invite certified safety, cybersecurity, and compliance experts to review the spec, validate tooling, and share domain requirements.
-- In the AI era, provable evidence chains are critical to distinguish human-audited compliance from synthetic output. Contribute test data, audit scenarios, and assurance cases to keep TRF trustworthy.
-- Collaborate with us on sampling policies, negative controls, and tool qualification dossiers so TRF reflects real-world assessment practice.
+## Our Solutions
+
+### Automated Documentation
+**A-SPICE Compliant**
+
+Generate professional technical documents from source code. Multi-language support with IP-protected hybrid cloud architecture.
+
+### Edge Anomaly Detection
+**Real-time Telemetry Analysis**
+
+Self-calibrating anomaly detection for vehicle fleets. Works offline, learns per-vehicle baselines, identifies safety-critical events.
+
+### AI Safety Constraints
+**Mathematical Guarantees**
+
+Neural architecture that makes safety violations impossible, not just penalized. Hard limits on speed, force, and trajectory.
+
+[Conceptual Display](https://huggingface.co/spaces/TraceWeave/Attr-AI-safety)
+
+---
 
 Contact: [contact@traceweave.net](mailto:contact@traceweave.net)
 
 <p align="center">
-  <img src="./traceweave_logo.svg" alt="Traceweave" height="90" /><br />
-  <sub>Initiative led by Traceweave</sub>
+  <img src="./traceweave_logo.svg" alt="TraceWeave" height="90" /><br />
+  <sub>TraceWeave</sub>
 </p>
