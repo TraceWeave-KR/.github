@@ -1,33 +1,21 @@
-## Automated Safety for Autonomous Systems
+## Post-Transformer Intelligence, From Edge to Cloud
 
-Real-time safety monitoring, compliance automation, and AI-powered analysis from edge to cloud.
+Phase-TITAN is a post-transformer architecture with constant memory: enabling real-time intelligence on every device. 
 
 ---
 
-## Our Solutions
+### Phase-TITAN
 
-### Automated Documentation
-**A-SPICE Compliant**
+A deterministic dynamical system that replaces the transformer's attention + KV-cache design. Constant state representation at any context length (measured on Rust CPU inference engine). Phase-TITAN also enables mesh intelligence. Devices share only compact direction vectors while all raw data stays on-device.
 
-Generate professional technical documents from source code. Multi-language support with IP-protected hybrid cloud architecture.
-
-### Edge Anomaly Detection
-**Real-time Telemetry Analysis**
-
-Self-calibrating anomaly detection for vehicle fleets. Works offline, learns per-vehicle baselines, identifies safety-critical events.
-
-### AI Safety Constraints
-**Mathematical Guarantees**
-
-Neural architecture that makes safety violations impossible, not just penalized. Hard limits on speed, force, and trajectory.
-
-[Conceptual Display](https://huggingface.co/spaces/TraceWeave/Attr-AI-safety)
+[Watch: First language model proof](https://www.youtube.com/watch?v=MFK33PA2xc8)
 
 ---
 
 Contact: [contact@traceweave.net](mailto:contact@traceweave.net)
 
-<p align="center">
-  <img src="./traceweave_logo.svg" alt="TraceWeave" height="90" /><br />
-  <sub>TraceWeave</sub>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+  <td valign="middle"><img src="./traceweave_logo.svg" alt="TraceWeave" height="75" /></td>
+  <td width="30"></td>
+  <td valign="middle"><a href="https://www.nvidia.com/en-us/startups/"><img src="./nvidia-inception-badge.png" alt="NVIDIA Inception Program" height="90" /></a></td>
+</tr></table>

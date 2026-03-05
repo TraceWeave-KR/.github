@@ -1,2 +1,2 @@
 # .github
-Automated Safety for Autonomous Systems
+Post-Transformer Intelligence, From Edge to Cloud
