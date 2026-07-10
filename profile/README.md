@@ -6,9 +6,9 @@ Phase-TITAN is a post-transformer architecture with constant memory: enabling re
 
 ### Phase-TITAN
 
-A deterministic dynamical system that replaces the transformer's attention + KV-cache design. Constant state representation at any context length (measured on Rust CPU inference engine). Phase-TITAN also enables mesh intelligence. Devices share only compact direction vectors while all raw data stays on-device.
+A deterministic dynamical system that replaces the transformer's attention + KV-cache design. Constant state representation at any context length (measured on Rust CPU inference engine). Under such deterministic regime, Phase-TITAN enables mesh intelligence. Devices share only compact direction vectors while all raw data stays on-device.
 
-[Watch: First language model proof](https://www.youtube.com/watch?v=MFK33PA2xc8)
+[Watch: First KV cache-free agentic sLM proof](https://youtube.com/shorts/E-jFYuVTrjk?feature=share)
 
 ---
 
